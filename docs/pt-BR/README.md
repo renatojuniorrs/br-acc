@@ -62,6 +62,10 @@ make seed
 - `scripts/`: scripts operacionais e de validação
 - `docs/`: documentação legal, de release e de datasets
 
+## Documentação
+
+- [Backend — Como Funciona](backend.md)
+
 ## Modos de Operação / Defaults Públicos
 
 Use estes defaults para deploy público:
