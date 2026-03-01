@@ -58,6 +58,10 @@ make seed
 - `scripts/`: operational and validation scripts
 - `docs/`: legal, release, and dataset documentation
 
+## Documentation
+
+- [Backend — How It Works](docs/backend.md)
+
 ## Operating Modes / Public-Safe Defaults
 
 Use these defaults for public deployments:
